@@ -1,0 +1,17 @@
+.container{
+	width: 1000px;
+	margin: 0 auto;
+}
+article{
+	float: left;
+	width: 700px;
+}
+article img{
+	float: left;
+	width: 250px;
+	margin:20px;
+}
+.content{
+	float: left;
+	width: 400px;
+}
